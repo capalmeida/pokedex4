@@ -22,6 +22,7 @@
 		72A36A5F1F5D579C00798329 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72A36A621F5D579C00798329 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72A36A641F5D579C00798329 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72A36A6A1F5D612400798329 /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				72A36A5A1F5D579C00798329 /* ViewController.swift */,
 				72A36A5C1F5D579C00798329 /* Main.storyboard */,
 				72A36A5F1F5D579C00798329 /* Assets.xcassets */,
+				72A36A6A1F5D612400798329 /* pokemon.csv */,
 				72A36A611F5D579C00798329 /* LaunchScreen.storyboard */,
 				72A36A641F5D579C00798329 /* Info.plist */,
 			);
